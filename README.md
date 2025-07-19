@@ -28,6 +28,12 @@ I'm passionate about building seamless web experiences and continuously explorin
 
 ---
 
+### 🧱 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshit2783&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/harshit-agarwal-063851298/)  
