@@ -23,8 +23,8 @@ I'm passionate about building seamless web experiences and continuously explorin
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit2783&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2783&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit2783&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2783&layout=compact&theme=radical&count_private=true)
 
 ---
 
