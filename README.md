@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Harshit Agarwal
 
-## 💻 IT Student | 🌐 Frontend-Focused Fullstack Web Developer | 🚀 Tech Enthusiast
+## 💻 IT Student | 🌐 Backend Developer | 🚀 Tech Enthusiast
 
 I'm passionate about building seamless web experiences and continuously exploring new tech. Whether it's backend APIs or frontend UI/UX, I enjoy crafting software that makes a difference.
 
@@ -8,8 +8,8 @@ I'm passionate about building seamless web experiences and continuously explorin
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, TypeScript, JavaScript(ES6+), React, Tailwind CSS
 - **Backend:** Node.js, Express, MySQL, MongoDB
+- **Frontend:** HTML5, CSS3, TypeScript, JavaScript(ES6+), React
 - **Tools & Platforms:** Git, GitHub, Postman, Docker, VS Code
 
 ---
