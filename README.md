@@ -1,23 +1,34 @@
 # 👋 Hey there! I'm Harshit Agarwal
 
-## 💻 IT Student | 🌐 Backend Developer | 🚀 Tech Enthusiast
+## 💻 Software Engineer | 🧩 Problem Solver | 🌐 Building Reliable Software
 
-I'm passionate about building seamless web experiences and continuously exploring new tech. Whether it's backend APIs or frontend UI/UX, I enjoy crafting software that makes a difference.
+I'm a recent Computer Science graduate passionate about building reliable web applications and scalable backend systems. I focus on writing clean, maintainable code and applying core software engineering principles to real-world problems.
+
+I'm actively seeking entry-level **Software Engineer / SDE** roles where I can contribute to production codebases and grow within an engineering team.
 
 ---
-
 ### 🛠️ Tech Stack
 
-- **Backend:** Node.js, Express, MySQL, MongoDB
-- **Frontend:** HTML5, CSS3, TypeScript, JavaScript(ES6+), React
-- **Tools & Platforms:** Git, GitHub, Postman, Docker, VS Code
+💻 **Languages**
+- Python • JavaScript • C • SQL
 
+🛠️ **Technologies**
+- Node.js • Express.js • MongoDB • Git • GitHub • Postman
+
+📚 **Fundamentals**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- REST APIs
+- Operating Systems
+- Computer Networking
 ---
 
-### 🌱 Currently Learning
+### 🌱 Current Focus
 
-- DevOps basics
-- Cloud deployment (AWS, Vercel)
+- Building production-ready software projects
+- Practicing Data Structures & Algorithms
+- Learning cloud and deployment technologies
 
 ---
 
