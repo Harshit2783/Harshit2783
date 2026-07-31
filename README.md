@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Harshit Agarwal
 
-## 💻 Software Engineer | 🧩 Problem Solver | 🌐 Building Reliable Software
+## 💻 Software Engineer | 🧩 Problem Solver | 🌐 Backend-focused
 
 I'm a recent Computer Science graduate passionate about building reliable web applications and scalable backend systems. I focus on writing clean, maintainable code and applying core software engineering principles to real-world problems.
 
