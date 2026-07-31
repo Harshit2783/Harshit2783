@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer | 🧩 Problem Solver | 🌐 Backend-focused
 
-I'm a recent Computer Science graduate passionate about building reliable web applications and scalable backend systems. I focus on writing clean, maintainable code and applying core software engineering principles to real-world problems.
+I'm a recent IT graduate passionate about building reliable web applications and scalable backend systems. I focus on writing clean, maintainable code and applying core software engineering principles to real-world problems.
 
 I'm actively seeking entry-level **Software Engineer / SDE** roles where I can contribute to production codebases and grow within an engineering team.
 
@@ -10,10 +10,10 @@ I'm actively seeking entry-level **Software Engineer / SDE** roles where I can c
 ### 🛠️ Tech Stack
 
 💻 **Languages**
-- Python • JavaScript • C • SQL
+- Python • JavaScript • C • SQL • HTML
 
 🛠️ **Technologies**
-- Node.js • Express.js • MongoDB • Git • GitHub • Postman
+- Node.js • Express.js • MongoDB • Git • GitHub • Postman • Vercel • Render 
 
 📚 **Fundamentals**
 - Data Structures & Algorithms
